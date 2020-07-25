@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Akathian)
+
 [![Akathian's github stats](https://github-readme-stats.vercel.app/api?username=Akathian)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Akathian/count.svg" />
+</p>
