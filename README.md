@@ -1,5 +1,7 @@
 ### Hi there 👋
 My name is Akathian,
+
+I hope to deepen our understanding of the brain by modeling specific neural pathways through deep learning research
 <!--
 **Akathian/Akathian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
